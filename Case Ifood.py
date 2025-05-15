@@ -3,7 +3,7 @@
 # MAGIC order
 
 # COMMAND ----------
-
+# inicio 
 
 
 from pyspark.sql import SparkSession
